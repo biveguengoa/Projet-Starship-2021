@@ -2,18 +2,32 @@
 
 ___
 
+## /!\ Informations importantes /!\
 
-Nous avons pu réaliser toutes les questions du TP, plus nous avons ajouté en bonus, la possibilité que les vaisseaux puissent tirer (Désactivé. Changer la valeur de l'attribut "randomSaucerShootEnable" à true pour tester cette fonctionnalité)
+Ce projet a été réalisé entièrement dans le cadre d'un projet étudiant de l'UE [JavaScript](https://www.fil.univ-lille1.fr/portail/index.php?dipl=L&sem=S4&ue=JS&label=Programme) dispensé en L2 Informartique à l'Université de Lille.
 
-**Le projet peut être jouable avec les 3 touches suivantes :**
+Il a réalisé par une équipe de 4 personnes dont moi.
 
-1. la touche directionnelle "HAUT" pour monter la soucoupe.
-1. la touche directionnelle "BAS" pour descendre la soucoupe.
-1. la touche espace pour tirer et éliminer les vaisseaux ennemis.
 
-**Installation des fichiers nécessaire au projet :**
-* Ce placer à la racine du projet et executez les 2 commandes suivantes:
-* npm install
-* npm run build
+##  How To ?
 
-Pour lancer le projet, ouvrir le fichier `index.html` dans le dossier `dist`, dans un navigateur web. 
+You can play with the following **3** keys :
+
+* key "UP" to move up ;
+* key "Down" to move down ;
+* key "SPACE" to shoot and kill the enemy saucers.
+
+
+### Installation and required files
+
+Move into the project's root and execute the following commands :
+
+```sh
+% npm install
+% npm run build
+
+```
+
+To launch th game, open the `index.html` file in the `dist` folder ; you will be redirected to a browser.
+
+Enjoy the game ! 
